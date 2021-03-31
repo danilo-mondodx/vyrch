@@ -2,7 +2,7 @@
 
 Direct 3D Viewer
 
-https://www.vyrch.com/mdx-viewer?prod=<product_name>&exposure=<exposure_level>&reveal=<reveal_mode>&ar=<ar_mode>
+https://www.vyrch.com/mdx-viewer?prod=product_name&exposure=exposure_level&reveal=reveal_mode&ar=ar_mode
 
 Where:
 
